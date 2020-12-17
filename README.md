@@ -7,7 +7,7 @@ UI Template Documentation: https://towardsdatascience.com/create-a-complete-mach
 Original UI template files: https://github.com/kb22/ML-React-App-Template
 
 
-Original datasets: notpeter/crunchbase-data
+Original datasets: https://github.com/notpeter/crunchbase-data
 
 
 Colab Notebook Link: https://colab.research.google.com/drive/1Vbuebxp_MWdhvfWi9LmcswJF6rQXz8dE?usp=sharing
