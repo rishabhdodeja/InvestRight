@@ -1,0 +1,7 @@
+Github repo: https://github.com/rishabhdodeja/InvestRight/
+
+UI Template: https://drive.google.com/drive/folders/1qw43a10tquzV41tIzklCI8ra4902tLwz?usp=sharing
+
+Google Drive Link with tranformed datasets: https://drive.google.com/drive/u/2/folders/1RygiamB0ebvcHbH8cZ9F4TR18A61ww1G
+
+Colab File Link: https://colab.research.google.com/drive/1Vbuebxp_MWdhvfWi9LmcswJF6rQXz8dE?usp=sharing
